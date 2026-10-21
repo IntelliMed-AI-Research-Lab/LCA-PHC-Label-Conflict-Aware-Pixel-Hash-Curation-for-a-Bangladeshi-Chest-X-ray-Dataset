@@ -103,26 +103,6 @@ The notebook installs missing packages itself and keeps Kaggle's matched torch/t
 - The source repository text states 3,355 images, but the archive contains 2,626; the archive and computed manifests govern this work.
 - Models are validation instruments, **not** clinically validated diagnostic tools.
 
-## Citation
-
-If you use this code or the cleaned release, please cite the paper and the source dataset:
-
-```bibtex
-@article{hira_lcaphc,
-  title   = {A Label-Conflict-Aware, Pixel-Hash Curation and Reproducible Benchmarking Protocol for a Bangladeshi Chest X-ray Dataset},
-  author  = {Hira, Md Irfanul Kabir and Bithee, Mst Moriom Akter},
-  journal = {MethodsX},
-  year    = {2026},
-  note    = {[PENDING: volume, pages, DOI]}
-}
-
-@misc{epic_chittagong_cxr_v5,
-  title        = {A Primary Chest X-ray Dataset of Normal Bangladesh, Version 5},
-  howpublished = {Mendeley Data},
-  doi          = {10.17632/wndbd5r26y.5},
-  url          = {https://data.mendeley.com/datasets/wndbd5r26y/5}
-}
-```
 
 ## License
 
